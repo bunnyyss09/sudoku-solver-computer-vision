@@ -5,6 +5,7 @@ This project is designed to solve Sudoku puzzles from images or manual input. It
 ---
 
 ## Sample Video
+[Watch the Demo](https://github.com/user-attachments/assets/9e6e8193-e624-4e52-8e21-b9e83a8507d2)
 
 ---
 ## Project Breakdown
