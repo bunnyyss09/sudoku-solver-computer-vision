@@ -69,10 +69,3 @@ This project is designed to solve Sudoku puzzles from images or manual input. It
 ## Model Training Details
 - The digit classification model is trained on the **Chars74K** dataset, which contains various handwritten characters.
 - The model predicts digits with high confidence to construct the initial Sudoku puzzle.
-
----
-
-## Future Improvements
-- **Enhanced Accuracy**: Improve the digit classification model with additional training data or more advanced architectures.
-- **Mobile Compatibility**: Develop a mobile-friendly version of the app for easier access.
-- **Additional Puzzle Types**: Extend support to other grid-based puzzles like KenKen or Kakuro.
